@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Especially `tidyverse` approach, including `ggplot` for visualization and `dplyr` for data wrangling, and  machine learning packages like `topicmodel`."
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Mainly using `pandas` for data manipulation, `scikit-learn` for machine learning, and `Keras` and `Pytorch` for neural network."  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+  description = "Simple data retrieval statements, summary functions and subquries techniques like common table expressions."
 
 +++
