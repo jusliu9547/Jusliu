@@ -1,41 +1,41 @@
 # Navigation
 
 - id: toggle_navigation
-  translation: 切换导航
+  translation: 切換導航
   
 - id: table_of_contents
-  translation: 目录
+  translation: 目錄
 
 - id: on_this_page
-  translation: 在本页
+  translation: 於本頁
 
 - id: back_to_top
-  translation: 回到顶部
+  translation: 回到頂端
 
 # General
 
 - id: related
-  translation: 相关
+  translation: 相關
 
 - id: minute_read
-  translation: 阅读时间（分钟）
+  translation: 閱讀時間（分鐘）
 
 - id: previous
-  translation: 上一页
+  translation: 上一頁
 
 - id: next
-  translation: 下一页
+  translation: 下一頁
 
 - id: figure
-  translation: '图%d:'
+  translation: '圖%d:'
 
 - id: edit_page
-  translation: 编辑本页
+  translation: 編輯本業
 
 # Buttons
 
 - id: btn_preprint
-  translation: 预印本
+  translation: 影印預覽
 
 - id: btn_pdf
   translation: PDF
@@ -44,39 +44,39 @@
   translation: 引用
 
 - id: btn_slides
-  translation: 演示文稿
+  translation: 顯示 Slides
 
 - id: btn_video
-  translation: 视频
+  translation: 影片
 
 - id: btn_code
-  translation: 代码
+  translation: 程式碼
 
 - id: btn_dataset
-  translation: 数据集
+  translation: 數據集
 
 - id: btn_project
-  translation: 项目
+  translation: 專案
 
 - id: btn_poster
-  translation: 海报
+  translation: 海報
 
 - id: btn_source
-  translation: 源文档
+  translation: 原始檔
 
 - id: btn_copy
-  translation: 复制
+  translation: 複製
 
 - id: btn_download
-  translation: 下载
+  translation: 下載
 
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 興趣
 
 - id: education
-  translation: 教育经历
+  translation: 教育程度
 
 - id: user_profile_latest
   translation: 最新
@@ -84,12 +84,12 @@
 # Accomplishments widget
 
 - id: see_certificate
-  translation: 查看证书
+  translation: 查看證書
 
 # Experience widget
 
 - id: present
-  translation: 现在
+  translation: 現在
 
 # Pages widget
 
@@ -100,7 +100,7 @@
   translation: 查看全部文章
 
 - id: more_talks
-  translation: 查看全部演讲
+  translation: 查看全部演講
 
 - id: more_publications
   translation: 查看全部出版物
@@ -111,16 +111,16 @@
   translation: 姓名
 
 - id: contact_email
-  translation: 邮箱
+  translation: 信箱
 
 - id: contact_message
-  translation: 信息
+  translation: 訊息
 
 - id: contact_send
-  translation: 发送
+  translation: 發送
 
 - id: book_appointment
-  translation: 预约
+  translation: 預約
 
 # Publication/Talk details
 
@@ -131,13 +131,13 @@
   translation: 出版物
 
 - id: publication_type
-  translation: 类型
+  translation: 類型
 
 - id: date
   translation: 日期
 
 - id: last_updated
-  translation: 最近更新于
+  translation: 最近更新於
 
 - id: event
   translation: 事件
@@ -146,36 +146,36 @@
   translation: 位置
 
 - id: pub_uncat
-  translation: 未分类
+  translation: 未分類
 
 - id: pub_conf
-  translation: 会议文章
+  translation: 會議文章
 
 - id: pub_journal
   translation: 期刊文章
 
 - id: pub_preprint
-  translation: 预印本
+  translation: 影印預覽
 
 - id: pub_report
-  translation: 报告
+  translation: 報告
 
 - id: pub_book
-  translation: 书籍
+  translation: 書籍
 
 - id: pub_book_section
-  translation: 章节
+  translation: 章節
 
 - id: pub_thesis
-  translation: 论文
+  translation: 論文
 
 - id: pub_patent
-  translation: 专利
+  translation: 專利
 
 # Project details
 
 - id: open_project_site
-  translation: 访问项目网站
+  translation: 前往專案網站
 
 # Default titles for archive pages
 
@@ -186,37 +186,37 @@
   translation: 出版物
 
 - id: talks
-  translation: 演讲
+  translation: 演講
 
 - id: projects
-  translation: 项目
+  translation: 專案
 
 # Search
 
 - id: search
-  translation: 搜索
+  translation: 搜尋
 
 - id: search_placeholder
-  translation: 搜索...
+  translation: 搜尋...
 
 - id: search_results
-  translation: 搜索结果
+  translation: 搜尋结果
 
 - id: search_no_results
-  translation: 没有找到结果
+  translation: 找不到结果
 
 # Error 404
 
 - id: page_not_found
-  translation: 找不到页面
+  translation: 找不到頁面
 
 - id: 404_recommendations
-  translation: 也许你在找？
+  translation: 您可能在找？
 
 # Cookie consent
 
 - id: cookie_message
-  translation: 本网站使用cookies来确保您在本网站上获得最佳体验。
+  translation: 本網站使用cookies來確保您可以在網站中獲得最佳體驗。
 
 - id: cookie_dismiss
   translation: 知道了!
