@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Simplest Example of Gradient Descent"
-subtitle: "The Beginner example for a powerful function."
-summary: "The Beginner example for a powerful function."
+subtitle: ""
+summary: ""
 authors: [Justin Liu]
 tags: []
 categories: []
 date: 2019-11-22T17:00:36+08:00
 lastmod: 2019-11-22T17:00:36+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -58,15 +58,15 @@ w_history = []
 for i in range(iteration):
     b_gradient = 0.0
     w_gradient = 0.0
-
+  
     for n in range(len(x)):
         b_gradient = b_gradient - 2.0 * (y[n] - b - w*x[n])*1.0
         w_gradient = w_gradient - 2.0 * (y[n] - b - w*x[n])*x[n]
-
+  
   # update parameters
     b = b - learning_rate * b_gradient
     w = w - learning_rate * w_gradient
-
+  
     b_history.append(b)
     w_history.append(w)
 ```
@@ -95,7 +95,7 @@ plt.contourf(x_plot, y_plot ,Z, 50, alpha = 0.5, cmap = plt.get_cmap('jet'))
 ```
 
 ```
-## <matplotlib.contour.QuadContourSet instance at 0x1177b93f8>
+## <matplotlib.contour.QuadContourSet instance at 0x1119823f8>
 ```
 
 ```python

@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "作品"
+  name = "論文"
   url = "#featured"
   weight = 40
 
