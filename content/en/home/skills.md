@@ -30,6 +30,6 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Simple data retrieval statements, summary functions and subquries techniques like common table expressions."
+  description = "Simple data retrieval statements, aggregate functions and subquries techniques like common table expressions."
 
 +++
