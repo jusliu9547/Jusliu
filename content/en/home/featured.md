@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Dissertation"
-subtitle = ""
+subtitle = "ICIM 30th Nice Paper Award"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
