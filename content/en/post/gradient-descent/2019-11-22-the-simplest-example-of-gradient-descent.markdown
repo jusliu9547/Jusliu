@@ -3,7 +3,7 @@
 
 title: "The Simplest Example of Gradient Descent"
 subtitle: ""
-summary: ""
+summary: "The beginner example for a powerful algorithm"
 authors: [Justin Liu]
 tags: []
 categories: []
@@ -95,7 +95,7 @@ plt.contourf(x_plot, y_plot ,Z, 50, alpha = 0.5, cmap = plt.get_cmap('jet'))
 ```
 
 ```
-## <matplotlib.contour.QuadContourSet instance at 0x1119823f8>
+## <matplotlib.contour.QuadContourSet instance at 0x11658e3f8>
 ```
 
 ```python
