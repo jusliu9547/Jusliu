@@ -35,7 +35,7 @@ subtitle = ""
 
    [[content.filter_button]]
      name = "區塊鏈"
-     tag = "區塊念"   
+     tag = "區塊鏈"   
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
