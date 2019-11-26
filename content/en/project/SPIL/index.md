@@ -22,4 +22,4 @@ Developing the fault detection system to earlier identify anomaly and reduce fal
 3. Implemented RNN-based time series fault detection model and calculated anomaly score by the difference between predict and actual value.
 
 ### Results
-Due to close to graduating, I only participated in the proof of concept stage of this project. However, We already implemented the fault detection system locally in `Pytorch` using the relatively small data (with four sensors) to obtain acceptable results.
+Due to closing to graduating, I only participated in the proof of concept stage of this project. However, We already implemented the fault detection system locally in `Pytorch` using the relatively small data (with four sensors) to obtain acceptable results.

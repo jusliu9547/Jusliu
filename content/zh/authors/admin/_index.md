@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Justin Liu
+name: 劉嘉鴻
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: "Graduate Student"
+role: "研究生"
 
 # Organizations/Affiliations
 organizations:
-- name: National Chung Hsing University
+- name: 國立中興大學
   url: "https://www.nchu.edu.tw/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data visualization, social network analysis, and etc.
 
 interests:
-- Data Visualization
-- Data Analysis
-- Social Network Analysis
-- Blockchain Techonolgy
+- 資料視覺化
+- 資料分析
+- 社會網絡分析
+- 區塊鏈
 
 education:
   courses:
-  - course: M.S. in Technology Mangement
-    institution: National Chung Hsing University
+  - course: 科技管理碩士
+    institution: 國立中興大學
     year: 2019
-  - course: B.S. in Sociology with a minor in Business Administration
-    institution: National Sun Yat-sen University
+  - course: 主修社會學系輔修企業管理學系
+    institution: 國立中山大學
     year: 2017
 
 # Social/Academic Networking
@@ -65,7 +65,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+我剛結束四個月的軍事訓練役，目前正在尋找資料分析師或資料科學家的職位！
 
-I just finished the mandatory military training and am looking for **Data Analyst** or **Junior Data Scientist** position!
-
-As a self-taught Data Scientist, I mainly gained related knowledge through online learning platforms like [Coursera](#accomplishments) and [DataCamp](#accomplishments) and studied fundamental concepts such as calculus and linear algebra via textbooks and online video courses. Besides the course certificates, I also applied the machine learning techniques to solve real world problems and got familiar with several packages and honed my programming skills at the same time. Interested in telling story with elegant pictures and learning new technologies.
+不同於多數應徵者，我主要是透過線上課程平台如 [Coursera](#accomplishments)和 [DataCamp](#accomplishments)來獲取資料科學相關知識，並從線上影片以及教科書來補足先備知識像是線性代數與微積分。除了吸收知識之外，我也應用所學得之機器學習技術來解決現有的問題，同時練習程式撰寫技術和熟悉相關的程式語言的工具庫。我喜歡製作簡潔優美的圖表來呈現結果和持續學習新的技術以備不時之需。

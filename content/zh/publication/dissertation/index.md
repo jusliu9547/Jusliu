@@ -1,7 +1,7 @@
 ---
-title: "Identifying Emerging Trends of Blockchain Technology Using a Topic-based Patent Mining Model"
+title: "利用主題式專利探勘模型探索區塊鏈新興趨勢"
 authors:
-- Justin Liu
+- 劉嘉鴻
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
@@ -15,23 +15,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Information Management*
+publication: In *國際資訊管理研討會*
 publication_short: In *ICIM 30th*
 
 
 
 # Summary. An optional shortened abstract.
-summary: In this research, we apply a latent Dirichlet allocation (LDA) model with noun phrase extraction to identify the underlying structure of collected patent corpus related to Blockchain technology. Through the patent map combining the analyzed outcomes can help Blockchain companies formulate the patent strategy and facilitate decision process.
-
+summary: 本研究主要利用潛在狄利克雷分佈並搭配名詞片語的特徵抽取，來挖掘區塊鏈相關專利下潛藏的技術主題。研究結果揭露區塊鏈領域技術的發展趨勢、透過主題與申請人的網絡圖發現各公司專注於不同的技術主題。最後有意發展區塊鏈的公司，可經由結合分析結果的專利地圖來輔助公司制定技術策略並提升決策效率。
 tags:
-- LDA
-- Patent Analysis
-- Blockchain
+- 潛在狄利克雷分佈
+- 專利分析
+- 區塊鏈
 
 featured: true
 
 links:
-- name: Slides
+- name: '投影片'
   url: 'en/files/dissertation_slide.pdf'
 url_pdf: 'en/files/dissertation_pdf.pdf'
 #url_code: '#'
@@ -64,11 +63,11 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Abstract
-In this research, we apply a latent Dirichlet allocation (LDA) model with noun phrase extraction to identify the underlying structure of collected patent corpus related to Blockchain technology. In order to uncover the emerging topics, we go one step further by utilizing the document-topic matrix generated from LDA to weigh each topic popularity and growth rate. Also, integrating the unstructured data such as applicants, forward citations, claims to illustrate the competitive landscape, patent value and technology evolution map. Our results reveal the future trends in the Blockchain technology field and find major firms have been focused on different technology topics. Finally, through the patent map combining the analyzed outcomes can help Blockchain companies formulate the patent strategy and facilitate decision process.
+### 摘要
+本研究主要利用潛在狄利克雷分佈並搭配名詞片語的特徵抽取，來挖掘區塊鏈相關專利下潛藏的技術主題。為了發掘技術新興趨勢，我們更進一步利用主題模型所產生的文詞矩陣來衡量各個主題的成長率與專利數量；另外也結合專利中其他結構化資料，如：專利申請人、向前引用數、專利申請範圍等，來描述區塊鏈的技術競爭態勢、技術主題價值以及技術演進地圖。本研究結果揭露區塊鏈領域技術的發展趨勢、透過主題與申請人的網絡圖發現各公司專注於不同的技術主題。最後有意發展區塊鏈的公司，可經由結合分析結果的專利地圖來輔助公司制定技術策略並提升決策效率。
 
 ### 
-{{< figure library="true" src="framework.png" title="Research Framwork" lightbox="true" >}}
+{{< figure library="true" src="framework.png" title="研究架構" lightbox="true" >}}
 {{% alert note %}}
-The `full text PDF` and `Slides` of my dissertation can be accessed from the button above.
+全文以及投影片連結置於標題下方按鍵
 {{% /alert %}}

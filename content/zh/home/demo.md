@@ -9,8 +9,8 @@ design:
     image_darken: 0.6
     text_color_light: true
   columns: "2"
-subtitle: "Maybe not the smartest, but trying to be the most diligent."
-title: Personal Blog
+subtitle: "永遠不是團體內最聰明的， 但盡力擔任最努力的那位！"
+title: 個人網頁
 align: right
 weight: 25
 widget: blank

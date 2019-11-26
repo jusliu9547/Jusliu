@@ -1,8 +1,9 @@
 ---
-title: DataCamp Project
-summary: 70+ hand-on mini projects using real world data to practice essential data scientist skills in `R`, `Python` or `SQL`.
+title: DataCamp 專案
+summary: 超過70個小型專案利用`R`、`Python` 或 `SQL`練習資料科學家必須技能。
+
 tags:
-- Machine Learning
+- 機器學習
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

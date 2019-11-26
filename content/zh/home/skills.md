@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Especially `tidyverse` approach, including `ggplot` for visualization and `dplyr` for data wrangling, and  machine learning packages like `topicmodel`."
+  description = "主要利用`tidyverse`工具庫，包括用 `ggplot` 來做資料視覺化、用`dplyr`來做資料處理；以及其他機器學習工具庫如`topicmodel`。"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Mainly using `pandas` for data manipulation, `scikit-learn` for machine learning, and `Keras` and `Pytorch` for neural network."  
+  description = "主要利用`pandas`做資料處理、`scikit-learn` 做機器學習以及 `Keras` 和 `Pytorch`作類神經網絡"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Simple data retrieval statements, aggregate functions and subquries techniques like common table expressions."
+  description = "基礎的資料查詢語法、匯總公式與子查詢技術"
 
 +++

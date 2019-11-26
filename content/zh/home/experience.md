@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "Internship"
+title = "經歷"
+subtitle = "實習"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Data Analyst Intern"
-  company = "Cathay Securities Corporation - Digital Management Department"
+  title = "資料分析實習生"
+  company = "國泰證券數位經營部"
   company_url = "https://www.cathaysec.com.tw/"
-  location = "Taipei, Taiwan"
+  location = "台灣台北"
   date_start = "2018-07-01"
   date_end = "2018-08-31"
   description = """
@@ -34,10 +34,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Blockchain Content Intern"
+  title = "區塊鏈內容實習生"
   company = "Starter Tech"
   company_url = "http://pocketcoin.tw/"
-  location = "Taipei, Taiwan/ Remote"
+  location = "台灣台北／遠端"
   date_start = "2018-02-01"
   date_end = "2018-11-01"
   description = """
@@ -49,10 +49,10 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Intern"
-  company = "China Merchants Bank - International Business Department"
+  title = "實習生"
+  company = "中國招商銀行國際業務部"
   company_url = "http://english.cmbchina.com/"
-  location = "Guangzhou, China"
+  location = "中國廣州"
   date_start = "2017-07-01"
   date_end = "2017-08-31"
   description = """

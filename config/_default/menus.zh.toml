@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "貼文"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "貼文"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "專案"

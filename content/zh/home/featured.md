@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Dissertation"
-subtitle = "ICIM 30th Nice Paper Award"
+title = "論文"
+subtitle = "第30屆國際資訊管理學術研討會論文佳作獎"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
