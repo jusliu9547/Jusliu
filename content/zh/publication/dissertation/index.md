@@ -32,7 +32,9 @@ featured: true
 links:
 - name: '投影片'
   url: 'en/files/dissertation_slide.pdf'
-url_pdf: 'en/files/dissertation_pdf.pdf'
+- name: '論文全文'
+  url: 'en/files/dissertation_pdf.pdf'
+url_pdf: ''
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -69,5 +71,5 @@ slides: example
 ### 
 {{< figure library="true" src="framework.png" title="研究架構" lightbox="true" >}}
 {{% alert note %}}
-全文以及投影片連結置於標題下方按鍵
+點選標題下方按鍵，觀看論文全文以及投影片。
 {{% /alert %}}
