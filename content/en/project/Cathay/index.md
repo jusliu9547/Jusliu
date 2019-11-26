@@ -24,10 +24,16 @@ url_video: ""
 
 ---
 
-### Summary
+### Objective
+Providing the appropriate and accurate credit limit on the basis of risk control according to customer identity information.
 
-Integrated open data into customer identity information to calculate the credit limit and further established dashboard to visualize the result through Tableau.
+### Procedure
+1. Searched suitable government open data to fit the given data.
+2. Matched the open data categories into anti money laundering categories in order to adjust existing function.
+3. Visualized the results through Tableau and utilized the built-in features to emphasize the variables including occupation categories, job title, countries and so on.
 
+### Result
+By integrating open data into customer identity information, we could provide customer more accurate and appropriate credit limit; on the other hand, using `Tableau` to visualize the final results could reduce the commumication cost.
 
 {{% alert note %}}
 The `Slides` of Tableau demo can be accessed from the button above.
