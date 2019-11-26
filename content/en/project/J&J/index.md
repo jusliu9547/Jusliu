@@ -13,7 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- name: Slides
+- name: Final Presentation Slides
   url: 'en/files/J&J_final.pdf'
-
+- name: Customer Insight Report
+  url: 'en/files/J&J_customer.pdf'
 ---
+Redesigned the marketing campaign with limited budget increasing the penetration rate of Listerine in the long run.
+
+
+{{% alert note %}}
+The `final presentation slides` and `customer insight report` of Johnson&Johnson x Listerine business competition can be accessed from the button above.
+{{% /alert %}}

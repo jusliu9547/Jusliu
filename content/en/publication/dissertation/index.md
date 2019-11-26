@@ -18,7 +18,7 @@ publication_types: ["7"]
 publication: In *International Conference on Information Management*
 publication_short: In *ICIM 30th*
 
-abstract: Since Satoshi Nakamoto coined the Blockchain idea, the interest of this technology has been increasing, especially at the end of 2017 as the price of Bitcoin rose dramatically. Not only financial institutes but other industries, such as logistics and agriculture, look forward to using Blockchain technology to redesign their services. Hence, it becomes fairly crucial for these companies to comprehend the emerging trends and propose appropriate development strategies. In this research, we apply a latent Dirichlet allocation (LDA) model with noun phrase extraction to identify the underlying structure of collected patent corpus related to Blockchain technology. In order to uncover the emerging topics, we go one step further by utilizing the document-topic matrix generated from LDA to weigh each topic popularity and growth rate. Also, integrating the unstructured data such as applicants, forward citations, claims to illustrate the competitive landscape, patent value and technology evolution map. Our results reveal the future trends in the Blockchain technology field and find major firms have been focused on different technology topics. Finally, through the patent map combining the analyzed outcomes can help Blockchain companies formulate the patent strategy and facilitate decision process.
+
 
 # Summary. An optional shortened abstract.
 summary: In this research, we apply a latent Dirichlet allocation (LDA) model with noun phrase extraction to identify the underlying structure of collected patent corpus related to Blockchain technology. Through the patent map combining the analyzed outcomes can help Blockchain companies formulate the patent strategy and facilitate decision process.
@@ -64,4 +64,11 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+### Abstract
+In this research, we apply a latent Dirichlet allocation (LDA) model with noun phrase extraction to identify the underlying structure of collected patent corpus related to Blockchain technology. In order to uncover the emerging topics, we go one step further by utilizing the document-topic matrix generated from LDA to weigh each topic popularity and growth rate. Also, integrating the unstructured data such as applicants, forward citations, claims to illustrate the competitive landscape, patent value and technology evolution map. Our results reveal the future trends in the Blockchain technology field and find major firms have been focused on different technology topics. Finally, through the patent map combining the analyzed outcomes can help Blockchain companies formulate the patent strategy and facilitate decision process.
 
+### 
+{{< figure library="true" src="framework.png" title="Research Framwork" lightbox="true" >}}
+{{% alert note %}}
+The `full text PDF` and `Slides` of my dissertation can be accessed from the button above.
+{{% /alert %}}

@@ -31,10 +31,6 @@ projects: []
 
 create data first
 
-```r
-library(reticulate)
-```
-
 
 ```python
 x = [338., 333., 328., 207., 226., 25., 179., 60., 208., 606.]
@@ -95,7 +91,7 @@ plt.contourf(x_plot, y_plot ,Z, 50, alpha = 0.5, cmap = plt.get_cmap('jet'))
 ```
 
 ```
-## <matplotlib.contour.QuadContourSet instance at 0x11658e3f8>
+## <matplotlib.contour.QuadContourSet instance at 0x1122283f8>
 ```
 
 ```python
@@ -121,6 +117,6 @@ plt.xlabel(r'$b$', fontsize =16)
 plt.ylabel(r'$w$', fontsize =16)
 ```
 
-<img src="/en/post/gradient-descent/2019-11-22-the-simplest-example-of-gradient-descent_files/figure-html/unnamed-chunk-5-1.png" width="672" />
+<img src="/en/post/gradient-descent/2019-11-22-the-simplest-example-of-gradient-descent_files/figure-html/unnamed-chunk-4-1.png" width="672" />
 
 lecture from: [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)

@@ -68,4 +68,4 @@ email: ""
 
 I just finished the mandatory military training and am looking for **Data Analyst** or **Junior Data Scientist** position!
 
-As a self-taught Data Scientist, I mainly gained related knowledge through online learning platforms like Coursera and DataCamp and studied fundamental concepts such as calculus and linear algebra via textbooks and online video courses. Besides the course certificates, I also applied the machine learning techniques to solve real world problems and got familiar with several packages and honed my programming skills at the same time.
+As a self-taught Data Scientist, I mainly gained related knowledge through online learning platforms like [Coursera](#accomplishments) and [DataCamp](#accomplishments) and studied fundamental concepts such as calculus and linear algebra via textbooks and online video courses. Besides the course certificates, I also applied the machine learning techniques to solve real world problems and got familiar with several packages and honed my programming skills at the same time. Interested in telling story with elegant pictures and learning new technologies.

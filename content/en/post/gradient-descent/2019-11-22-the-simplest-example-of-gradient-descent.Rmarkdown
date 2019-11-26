@@ -30,9 +30,6 @@ projects: []
 
 
 create data first
-```{r}
-library(reticulate)
-```
 
 ```{python}
 x = [338., 333., 328., 207., 226., 25., 179., 60., 208., 606.]

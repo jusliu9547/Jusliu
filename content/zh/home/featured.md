@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Dissertation"
+subtitle = "ICIM 30th Nice Paper Award"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -62,3 +62,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
