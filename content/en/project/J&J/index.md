@@ -19,11 +19,11 @@ links:
   url: 'en/files/J&J_customer.pdf'
 ---
 ### Objective
-Increasing the penetration rate of Listerine with limited budget .
+Increasing the penetration rate of Listerine with limited budget.
 
 ### Procedure
 1. Joined Listerine marketing campaign in Carrefour and observed customer behavior during trail to catch the customer insight.
-2. Designed and conducted a customer questionnaire survey and afterward applied simple logistic regression to identify which type of customer tend to purchase mouthwash and vice versa.
+2. Designed and conducted a customer questionnaire survey and afterward applied logistic regression to identify which type of customer tend to purchase mouthwash and vice versa.
 3. Redesigning the marketing campaign with limited budget attracting more children to give it a shot.
 {{< figure library="true" src="J&J.gif" title="Visualization of Results" lightbox="true" >}}
 

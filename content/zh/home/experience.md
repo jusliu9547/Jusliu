@@ -26,11 +26,11 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-08-31"
   description = """
-   1. Summarized daily news including FinTech, AI, and Blockchain topics.
+   1. 每日重點新聞摘要，包含金融科技、人工智慧以及區塊鏈領域。
   
-  2. Analyzed the current trends in securities trading market such as credit score, robo-advisor, etc.
-        
-  3. Integrated open data into customer identity information to calculate the credit limit and further established dashboard to visualize the result through Tableau.
+  2. 分析研究近期證券交易市場趨勢，如信用分、智能投顧等服務。
+
+  3. 整合政府開放資料與客戶申請之身份資料，進一步計算客戶之信用額度並利用`Tableau`視覺化最終成果。
   """
 
 [[experience]]
@@ -41,11 +41,11 @@ date_format = "Jan 2006"
   date_start = "2018-02-01"
   date_end = "2018-11-01"
   description = """
-  1. Translated crucial news, novelty applications and Blockchain fundamental concepts in plaint text.
+  1. 翻譯區塊鏈領域重大新聞與創新應用，以及用白話文簡介區塊鏈基礎知識。
   
-  2. Introduced top 100 market value cryptocurrencies about their purpose and technical strategies.
+  2. 介紹市值前100大加密貨幣之應用情境與技術策略。
   
-  3. Developed the quantitative strategies using technical metrics and applied them to trade cryptocurrencies during the competition against the others interns.
+  3. 利用技術指標建立量化投資策略，並實作於加密貨幣上與其他實習生競賽。
   """
   
 [[experience]]
@@ -56,9 +56,9 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-08-31"
   description = """
-  1. Classified the incoming telegram, and sent to the responsible person.
+  1. 分類每日傳送之電報文書，並交至各負責人。
   
-  2. Verified the document of L/C, including invoices, bill of lading, insurance forms, etc and further investigated the route of ship to avoid money laundering.
+  2. 驗證國際交易之信用證，包含發票、提單和保險資料等，併進一步調查該船班之路徑避免可疑洗錢行為。
   """
 
 

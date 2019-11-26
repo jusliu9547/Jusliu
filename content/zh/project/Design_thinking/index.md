@@ -13,8 +13,9 @@ image:
   caption: 
   focal_point: 
 ---
-### :
+### 內容包括:
 
-* Conducted the field research to interview with users in order to capture the users' demands.
+* 執行田野調查至場域與使用者進行面訪以捕捉使用者需求。
 
-* Utilized design thinking methodology to rethink the service process and adopted several brainstorming techniques to come up with innovative ideas.
+
+* 利用設計思考方法論重新思考整體服務流程並採用各種腦力激盪方式想出創新提案。

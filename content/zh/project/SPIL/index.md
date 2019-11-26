@@ -1,8 +1,9 @@
 ---
-title: SPIL Fault Detection Model
-summary: RNN-based time series anamoly detection model to capture abnormal signals in real time in `Pytorch`.
+title: 矽品錯誤異常模型
+summary: 利用`Pytorch`建立遞迴類神經網絡時間序列異常偵測模型，以提早辨認機器異常之狀況。
+
 tags:
-- Machine Learning
+- 機器學習
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,3 +13,14 @@ image:
   caption: 
   focal_point: 
 ---
+
+### 目的
+建立異常偵測模型以及早發現機器運作異常以及減少錯誤偵測之比率。
+
+### 執行方式／步驟
+1. 研究近期關於利用遞迴類神經網絡進行異常偵測之相關論文。
+2. 根據相關研究調整其資料架構，以符合矽品提供之資料並產出合理成果。
+3. 實作遞迴類神經網絡時間序列異常偵測模型並利用預測值與真實直之誤差計算異常分數。
+
+### 結果
+由於接近畢業時期，此次專案我僅參與到概念驗證階段。不過，我們已用相對小的樣本數（僅採用四個傳感器資料），使用`Pytorch`實作出異常偵測模型並產出可接受的成果。

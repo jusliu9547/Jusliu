@@ -1,9 +1,9 @@
 ---
 title: PocketCoin
-summary: Introduced cryptocurrencies about their purpose and technical strategies and translated crucial news in plaint text.
+summary: 介紹市值前100大加密貨幣其應用情境與技術背景，以及用白話文翻譯區塊鏈重大新聞事件。
 
 tags:
-- Blockchain
+- 區塊鏈
 
 date: "2019-01-01T00:00:00Z"
 
