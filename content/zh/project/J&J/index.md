@@ -1,5 +1,5 @@
 ---
-title: J&J x Listerine - Bring Out the Bold
+title: 嬌生 X 李施德霖商業競賽
 summary: 在有限預算下重新設計行銷活動，藉此提高李施德霖漱口水的市場滲透率。
 tags:
 - 商業競賽
