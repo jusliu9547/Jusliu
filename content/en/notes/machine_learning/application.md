@@ -1,5 +1,5 @@
 ---
-title: Deep Learning
+title: Application
 
 toc: true
 type: docs
@@ -8,8 +8,8 @@ draft: false
 
 menu:
   machine_learning:
-    name: Deep Learning
-    weight: 3
+    name: Application
+    weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3

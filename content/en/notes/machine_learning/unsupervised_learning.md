@@ -1,5 +1,5 @@
 ---
-title: Deep Learning
+title: Unsupervised Learning
 
 toc: true
 type: docs
@@ -8,11 +8,11 @@ draft: false
 
 menu:
   machine_learning:
-    name: Deep Learning
-    weight: 3
+    name: Unsupervised Learning
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 2
 
 ---
 
