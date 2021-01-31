@@ -8,49 +8,49 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 20
+#[[main]]
+#  name = "Skills"
+#  url = "#skills"
+#  weight = 20
 
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 30
+#[[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 30
 
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
-  weight = 40
+#[[main]]
+#  name = "Accomplishments"
+#  url = "#accomplishments"
+#  weight = 40
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 50
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 60
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 60
 
-[[main]]
-  name = "Dissertation"
-  url = "#featured"
-  weight = 70
+#[[main]]
+#  name = "Dissertation"
+#  url = "#featured"
+#  weight = 70
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 80
 
-[[main]]
-  name = "Notes"
-  url = "notes/"
-  weight = 80
+#[[main]]
+#  name = "Notes"
+#  url = "notes/"
+#  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 100
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 100
