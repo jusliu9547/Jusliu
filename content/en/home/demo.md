@@ -9,7 +9,7 @@ design:
     image_darken: 0.6
     text_color_light: true
   columns: "2"
-subtitle: "Maybe not the smartest, but trying to be the most diligent."
+subtitle: "Everything should be made as simple as possible, but not simpler.  -- Albert Einstein"
 title: Personal Blog
 align: right
 weight: 25

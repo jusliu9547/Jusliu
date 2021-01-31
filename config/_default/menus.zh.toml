@@ -13,39 +13,39 @@
 #  url = "#posts"
 #  weight = 20
 
-[[main]]
-  name = "技能"
-  url = "#skills"
-  weight = 20
+#[[main]]
+#  name = "技能"
+#  url = "#skills"
+#  weight = 20
 
-[[main]]
-  name = "經歷"
-  url = "#experience"
-  weight = 30
+#[[main]]
+#  name = "經歷"
+#  url = "#experience"
+#  weight = 30
 
-[[main]]
-  name = "證書"
-  url = "#accomplishments"
-  weight = 40
+#[[main]]
+#  name = "證書"
+#  url = "#accomplishments"
+#  weight = 40
 
-[[main]]
-  name = "專案"
-  url = "#projects"
-  weight = 50
+#[[main]]
+#  name = "專案"
+#  url = "#projects"
+#  weight = 50
 
-[[main]]
-  name = "論文"
-  url = "#featured"
-  weight = 60
+#[[main]]
+#  name = "論文"
+#  url = "#featured"
+#  weight = 60
 
-[[main]]
-  name = "聯絡方式"
-  url = "#contact"
-  weight = 70
+#[[main]]
+#  name = "聯絡方式"
+#  url = "#contact"
+#  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "履歷"
-    url = "files/cv.pdf"
-    weight = 80
+# [[main]]
+#    name = "履歷"
+#    url = "files/cv.pdf"
+#    weight = 80
